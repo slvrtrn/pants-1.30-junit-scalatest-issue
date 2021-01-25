@@ -18,6 +18,6 @@ import org.scalatest.flatspec.AnyFlatSpec
 class TestHello extends AnyFlatSpec {
 
   it should "pass" in {
-    assert(true)
+    assert(false)
   }
 }
